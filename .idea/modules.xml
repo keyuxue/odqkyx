@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/src/main/main.iml" filepath="$PROJECT_DIR$/configserver/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/src/main/main1.iml" filepath="$PROJECT_DIR$/eurekaserver/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/src/main/main2.iml" filepath="$PROJECT_DIR$/order/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order.iml" filepath="$PROJECT_DIR$/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wmspringcloud.iml" filepath="$PROJECT_DIR$/wmspringcloud.iml" />
+    </modules>
+  </component>
+</project>
